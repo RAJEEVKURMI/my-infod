@@ -1,2 +1,2 @@
 # my-infod
-hello github
+hello github.
